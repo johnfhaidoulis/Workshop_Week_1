@@ -1,0 +1,45 @@
+* { margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(143, 198, 60);
+}
+
+.firstnavbar {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.logobar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: baseline;
+}
+
+.companyName {
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.companyIcon {
+    width: 70px;
+    height: auto;
+    margin: 10px;
+}
+
+.secondnavbar {
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.searchbar {
+    margin: 5px;
+}
