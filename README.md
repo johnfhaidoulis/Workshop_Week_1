@@ -13,6 +13,8 @@ There should be a sales section for current seasons sales which are based on cro
 
 Lastly there should be clear and accessible search bars, login buttons, and links in the header and footer similar to other webpages.
 
+Note: The images and information are sourced from third-parties and are just used for demonstration purposes as practice making this mock website.
+
 ## Sources:
 1. I used W3schools ul style guide
 2. RHS website, Sutton Seeds, Fothergills websites were used for inspiration.
