@@ -36,7 +36,6 @@ header {
 
 .companyName {
     font-size:xx-large;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     align-self: flex-end;
     font-weight: 700;
 }
@@ -149,16 +148,6 @@ figure {
     border-radius: 8px;
 }
 
-.footerNav {
-    background-color: #DFF291;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 8px;
-    display: flex;
-    justify-content: space-evenly;
-    font-size:x-small;
-}
-
 .tipsTitle {
     text-align: center;
     margin: 10px;
@@ -168,4 +157,47 @@ figure {
     display: flex;
     justify-content: space-evenly;
     gap: 10px;
+}
+
+.infoText {
+    flex-grow: 1;
+}
+
+.tipsPictures {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin: 20px;
+}
+
+
+.helpSpace {
+    background-color: #fdb467;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    position: fixed;
+    bottom: 1%;
+    right: 2%;
+}
+
+
+.footerNav {
+    background-color: #DFF291;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    font-size:x-small;
+}
+
+.finalLinks {
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.finalInfo {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
 }
